@@ -4,7 +4,7 @@
   "description": "A simple command line tool that lets you bulk download images from Unsplash",
   "main": "main.js",
   "dependencies": {
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "https": "^1.0.0",
     "inquirer": "^7.1.0",
     "minimist": "^1.2.5",
