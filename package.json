@@ -6,7 +6,7 @@
   "dependencies": {
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
-    "inquirer": "^7.1.0",
+    "inquirer": "^7.3.3",
     "minimist": "^1.2.5",
     "path": "^0.12.7",
     "progress": "^2.0.3",
